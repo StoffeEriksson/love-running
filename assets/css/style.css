@@ -115,6 +115,34 @@ main {
   color: #ffffff;
 }
 
+#reasons {
+  width: 90%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin: auto;
+}
+
+#reasons > h2 {
+  font-size: 280%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#benefits-physical > div,
+#benefits-mental > div {
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+
+#benefits p {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#benefits > hr {
+  border-top: 1px solid #3a3a3a;
+}
+
 /* footer */
 #social-networks {
   text-align: center;
